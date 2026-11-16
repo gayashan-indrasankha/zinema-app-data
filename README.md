@@ -1,0 +1,1 @@
+# zinema-app-data
